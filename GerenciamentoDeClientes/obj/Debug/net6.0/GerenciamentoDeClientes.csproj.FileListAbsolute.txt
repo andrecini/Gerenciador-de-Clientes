@@ -1,0 +1,74 @@
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\bin\Debug\net6.0\appsettings.json
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\bin\Debug\net6.0\GerenciamentoDeClientes.staticwebassets.runtime.json
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\bin\Debug\net6.0\GerenciamentoDeClientes.exe
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\bin\Debug\net6.0\GerenciamentoDeClientes.deps.json
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\bin\Debug\net6.0\GerenciamentoDeClientes.runtimeconfig.json
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\bin\Debug\net6.0\GerenciamentoDeClientes.dll
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\bin\Debug\net6.0\GerenciamentoDeClientes.pdb
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.csproj.AssemblyReference.cache
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.AssemblyInfoInputs.cache
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.AssemblyInfo.cs
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.csproj.CoreCompileInputs.cache
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.RazorAssemblyInfo.cache
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.RazorAssemblyInfo.cs
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\staticwebassets\msbuild.GerenciamentoDeClientes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\staticwebassets\msbuild.build.GerenciamentoDeClientes.props
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GerenciamentoDeClientes.props
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GerenciamentoDeClientes.props
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\scopedcss\bundle\GerenciamentoDeClientes.styles.css
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\scopedcss\projectbundle\GerenciamentoDeClientes.bundle.scp.css
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.dll
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\refint\GerenciamentoDeClientes.dll
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.pdb
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.genruntimeconfig.cache
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\ref\GerenciamentoDeClientes.dll
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\fh158\source\repos\GerenciamentoDeClientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.csproj.CopyComplete
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\bin\Debug\net6.0\appsettings.json
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\bin\Debug\net6.0\GerenciamentoDeClientes.staticwebassets.runtime.json
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\bin\Debug\net6.0\GerenciamentoDeClientes.exe
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\bin\Debug\net6.0\GerenciamentoDeClientes.deps.json
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\bin\Debug\net6.0\GerenciamentoDeClientes.runtimeconfig.json
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\bin\Debug\net6.0\GerenciamentoDeClientes.dll
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\bin\Debug\net6.0\GerenciamentoDeClientes.pdb
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.csproj.AssemblyReference.cache
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.AssemblyInfoInputs.cache
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.AssemblyInfo.cs
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.csproj.CoreCompileInputs.cache
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.RazorAssemblyInfo.cache
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.RazorAssemblyInfo.cs
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\staticwebassets\msbuild.GerenciamentoDeClientes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\staticwebassets\msbuild.build.GerenciamentoDeClientes.props
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GerenciamentoDeClientes.props
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GerenciamentoDeClientes.props
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\scopedcss\bundle\GerenciamentoDeClientes.styles.css
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\scopedcss\projectbundle\GerenciamentoDeClientes.bundle.scp.css
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.csproj.CopyComplete
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.dll
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\refint\GerenciamentoDeClientes.dll
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.pdb
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\GerenciamentoDeClientes.genruntimeconfig.cache
+C:\Users\fh158\Desktop\Projetos Pessoais\Sites\Gerenciamento de Clientes\Gerenciador-de-Clientes\GerenciamentoDeClientes\obj\Debug\net6.0\ref\GerenciamentoDeClientes.dll

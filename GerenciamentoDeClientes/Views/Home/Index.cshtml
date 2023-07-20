@@ -1,0 +1,96 @@
+﻿@model List<Cliente>;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="d-flex w-100 align-items-center justify-content-end mt-4 mb-2">
+    <a asp-controller="Cadastro" asp-action="Index" class="btn btn-success">Cadastrar</a>
+</div>
+
+<div class="container">
+    <h2>Lista de Clientes</h2>
+    <table class="table table-striped table-responsive">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Nome</th>
+                    <th>Embarque</th>
+                    <th>Descrição</th>
+                    <th>Encontrado</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Count() > 0)
+                {
+                    @foreach (var cliente in Model)
+                    {
+
+                        <tr>
+                            <td>@cliente.Id</td>
+                            <td>@cliente.Nome</td>
+                            <td>@cliente.Embarque</td>
+                            <td>@cliente.Descricao</td>
+                            <td><input type="checkbox" @(cliente.Encontrado == 1 ? "checked" : "") onclick="mudarStatus(@cliente.Id, @cliente.Encontrado)"></td>
+                            <td>
+                                <button class="btn btn-danger btn-sm" onclick="deletar(@cliente.Id)">Deletar</button>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+</div>
+
+@Html.Hidden("Home", Url.Action("Index", "Home"))
+@Html.Hidden("MudarStatus", Url.Action("MudarStatusEncontrado", "Home"))
+@Html.Hidden("Deletar", Url.Action("Deletar", "Home"))
+
+<script>
+    function mudarStatus(id, status) {
+
+        let cliente = {
+            Id: id,
+            Encontrado: status == 1 ? 0 : 1
+        }
+
+        $.ajax({
+            url: $("#MudarStatus").val(),
+            type: 'POST',
+            data: JSON.stringify(cliente),
+            contentType: "application/json",
+            dataType: "json",
+            success: function (data) {
+                console.log('Dados enviados com sucesso!');
+                window.location.href = $("#Home").val();
+            },
+            error: function () {
+                console.log('Erro ao enviar dados!');
+            }
+        });
+    }
+
+    function deletar(id) {
+
+        let cliente = {
+            Id: id
+        }
+
+        $.ajax({
+            url: $("#Deletar").val(),
+            type: 'POST',
+            data: JSON.stringify(cliente),
+            contentType: "application/json",
+            dataType: "json",
+            success: function (data) {
+                console.log('Dados enviados com sucesso!');
+            },
+            error: function (data) {
+                console.log('Erro ao enviar dados!');
+            }
+        });
+
+        window.location.href = $("#Home").val();
+    }
+</script>

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "vj92AHVXLkmQnjP/ySt+E+kcuENyhOk/4BS/YWBXr/862T4LFWLaZUqWNUVDKSEx+Reru8xa7Uk3KQaCi+3zMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fh158\\Desktop\\Projetos Pessoais\\Sites\\Gerenciamento de Clientes\\Gerenciador-de-Clientes\\GerenciamentoDeClientes\\GerenciamentoDeClientes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fh158\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\fh158\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.br154.corpintra.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
